@@ -1,4 +1,4 @@
-package w3c_tracecontext_creator
+package w3c_traceparent_creator
 
 import (
 	"context"
