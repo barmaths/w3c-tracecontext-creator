@@ -1,6 +1,0 @@
-displayName: W3C TraceParent Creator
-type: middleware
-import: github.com/barmaths/w3c-tracecontext-creator
-summary: "A Traefik plugin to generate a W3C TraceParent header if it is not already in request headers"
-testData:
-  HeaderName: "traceparent"
